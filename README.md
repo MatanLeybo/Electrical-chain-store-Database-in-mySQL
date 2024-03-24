@@ -1,6 +1,6 @@
 # Electrical-chain-store-Database-in-mySQL
 
-This project encompasses a comprehensive database model developed in MySQL, showcasing example queries, a database schema, and an Entity-Relationship Diagram (ERD).
+This project encompasses a comprehensive database model developed in MySQL, showcasing example queries, a database schema, an Entity-Relationship Diagram (ERD) and the logical model (ER) it's based on.
 
 ## Tables
 
@@ -30,7 +30,7 @@ The database comprises 16 tables:
 
     
 - **Store**:  Holds ID, address, opening and closing times 
-- **Warehouse** Contains its capacity 
+- **Warehouse** Contains capacity 
 - **Department** Includes names and capacities 
 - **Sales_Destination** Has a destination of a specific month
 - **Employee** Holds ID, names, addresses, birthday and hiring dates, phone numbers, positions and salaries 
@@ -54,4 +54,4 @@ The database comprises 16 tables:
 
 - Table creation was done using the `CREATE TABLE` statement, followed by data insertion via `INSERT INTO` and `VALUES`.
 
-- A range of queries was executed  with diffrent levels of manipulation. Covering basic retrieval, compound conditions, computed fields, SQL functions, subqueries, grouping, sorting, table joins, unions, special operators, views, updates, and deletes. All queries were successful and documented in a pptx file named "Presentation". This file contains the ERD and the queries results.
+- A range of queries was executed  with diffrent levels of manipulation. Covering basic retrieval, compound conditions, computed fields, SQL functions, subqueries, grouping, sorting, table joins, unions, special operators, views, updates, and deletes. All queries were successful and documented in a pptx file named "Presentation". This file also contains the logical ER, the ERD, and the queries results.

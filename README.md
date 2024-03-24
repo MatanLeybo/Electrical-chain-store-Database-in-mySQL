@@ -1,6 +1,6 @@
 # Electrical-chain-store-Database-in-mySQL
 
-This project encompasses a comprehensive database model developed in MySQL, showcasing example queries, a database schema, an Entity-Relationship Diagram (ERD) and the logical model (ER) it's based on.
+This project encompasses a comprehensive database model developed in MySQL, showcasing example queries, an Entity-Relationship Diagram (ERD) and the logical model (ER) it's based on.
 
 ## Tables
 

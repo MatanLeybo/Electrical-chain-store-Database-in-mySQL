@@ -27,16 +27,7 @@ The database comprises 16 tables:
 
 - Format (Tables):
 
-  - **College**: Holds names and IDs.
-  - **Buildings**: Each building has a name.
-  - **Classrooms**: Indicates projector presence, along with the building and room  - number.
-  - **Sections**: Contains course, building, person, and classroom details.
-  - **Courses**: Includes course names and associated textbook ISBNs.
-  - **Textbooks**: Comprises title, author, and ISBN information.
-  - **Persons**: Contains names and phone numbers.
-  - **Faculty**: Includes titles, names, and salaries of faculty members.
-  - **Students**: Stores grade point averages and student names.
-  - **Interns**: Contains hourly wage and IDs.
+
     
 - **Store**:  Holds ID, address, opening and closing times 
 - **Warehouse** Contains its capacity 
